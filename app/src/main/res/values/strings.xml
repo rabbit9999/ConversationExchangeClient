@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Conversation Exchange Client</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_simple_search">Simple search</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="simple_search_speaks">"Speaks"</string>
+    <string name="simple_search_country">"Country"</string>
+    <string name="simple_search_learning">"Learning"</string>
+    <string name="simple_search_town">"Town"</string>
+    <string name="simple_search_subtitle_1">"Describe your language partner"</string>
+    <string name="simple_search_subtitle_2">"Type of exchange"</string>
+    <string name="simple_search_face_to_face">"Face to face conversation"</string>
+    <string name="simple_search_correspondence">"Correspondence (Pen-Pal)"</string>
+    <string name="simple_search_chat_software">"Using a chat software"</string>
+    <string name="simple_search_btn">"Search"</string>
+    <string name="simple_search_reset_form_btn">"Reset form"</string>
+
+    <string name="search_result_item_gender_age">Gender, Age</string>
+    <string name="search_result_item_country_town">Country, Town</string>
+    <string name="search_result_item_native_language">Native Language</string>
+    <string name="search_result_item_practicing_language">Practicing Language</string>
+    <string name="search_result_item_type_of_exchange">Type of Exchange</string>
+    <string name="search_result_item_description">Description</string>
+    <string name="search_result_item_hobbies_and_interests">Hobbies and interests</string>
+    <string name="search_result_item_last_login">Last login</string>
+    <string name="search_result_item_profile_date">Profile date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6B6B83</color>
+    <color name="colorPrimaryTransparent">#526B6B83</color>
+    <color name="colorPrimaryDark">#6B6B83</color>
+    <color name="colorAccent">#39f</color>
+    <color name="searchResultTitleTextColor">#03038d</color>
+    <color name="searchResultTitleBackgroundColor">#c5c5f1</color>
+</resources>
